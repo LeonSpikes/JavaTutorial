@@ -3,7 +3,7 @@ public class Example4 {
     //psvm
     public static void main(String[] args) {
 
-        boolean check = false;
+        boolean check = true;
 
         if(check == true){
             correct();
