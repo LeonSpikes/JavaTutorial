@@ -4,8 +4,8 @@ public class Example3 {
     public static void main(String[] args) {
 
         boolean check = true;
-        String textt = "it's true";
-        String textf = "it's false";
+        String textt = "Es ist Wahr";
+        String textf = "Es ist Falsch";
 
         if (check == true) {
             //sout

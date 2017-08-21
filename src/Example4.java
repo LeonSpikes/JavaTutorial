@@ -14,12 +14,12 @@ public class Example4 {
     }
 
     public static void correct(){
-        String textt = "correct";
+        String textt = "Richtig";
         System.out.println(textt);
     }
 
     public static void incorrect(){
-        String textf = "incorrect";
+        String textf = "Falsch";
         System.out.println(textf);
     }
 }

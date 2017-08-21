@@ -4,6 +4,6 @@ public class Example1 {
     public static void main(String[] args) {
 
         //sout
-        System.out.println("Hallo");
+        System.out.println("Hallo Welt!");
     }
 }
