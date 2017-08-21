@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="916362ca-b452-4dd8-b710-f293446016cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Example7.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Example7.java" afterPath="$PROJECT_DIR$/src/Example7.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,8 +84,8 @@
             <state relative-caret-position="210">
               <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -473,8 +473,8 @@
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
           </folding>
         </state>
       </provider>
